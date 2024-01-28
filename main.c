@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+This is my f2 branch
 }
 
 Initial Security()
 {
- //Sample Code
+print('This is my security patch for f2 branch')
 }
 
 
